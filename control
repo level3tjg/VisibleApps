@@ -1,0 +1,10 @@
+Package: com.level3tjg.visibleapps
+Name: VisibleApps
+Version: 0.0.3
+Architecture: iphoneos-arm
+Description: Show hidden apps on the homescreen
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.visibleapps
+Maintainer: level3tjg
+Author: level3tjg
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
